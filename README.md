@@ -1,6 +1,6 @@
 # Valence_with_AI
 <br>
-## test
+
 <br>
 The **aim** of this project is to understand how good is **AI** for ** generating code **. Is it * useless * ? Is it a *great tool* for programmers ? Is it able to create code for people who *don't know how to code* ? It is what we will see.
 <br><br>
