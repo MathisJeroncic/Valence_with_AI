@@ -13,3 +13,5 @@ We are working on a **similar template** so you can easily **compare** the resul
 - From code to despcrition", we give a full code and ask for a description
 - "From description to code", we give a description and ask for a code
 - "Find errors warnings and optimization", we give a full code and ask for errors/warnings and an optimization of the code
+
+All of our results are available in "Graph Valence"
